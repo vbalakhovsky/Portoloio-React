@@ -5,6 +5,11 @@ import Particles from "react-particles-js"
 import Navbar from './components/Navbar';
 import Header from './components/Header'
 import AboutMe from './components/AboutMe';
+import Projects from './components/Projects';
+import Apps from './components/Apps'
+import Resume from './components/Resume'
+import Art from './components/Art';
+
 
 function App() {
   return (
@@ -34,6 +39,10 @@ params={{
 <Navbar/>
 <Header/>
 <AboutMe/>
+<Projects/>
+<Apps/>
+<Resume/>
+<Art/>
 </>
   );
 }
