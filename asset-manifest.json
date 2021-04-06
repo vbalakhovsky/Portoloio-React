@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Portoloio-React/static/css/main.bd42a928.chunk.css",
+    "main.js": "/Portoloio-React/static/js/main.6eab52d1.chunk.js",
+    "main.js.map": "/Portoloio-React/static/js/main.6eab52d1.chunk.js.map",
+    "runtime-main.js": "/Portoloio-React/static/js/runtime-main.ac689601.js",
+    "runtime-main.js.map": "/Portoloio-React/static/js/runtime-main.ac689601.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Portoloio-React/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.1639c259.chunk.js": "/Portoloio-React/static/js/2.1639c259.chunk.js",
+    "static/js/2.1639c259.chunk.js.map": "/Portoloio-React/static/js/2.1639c259.chunk.js.map",
+    "static/js/3.3f485a4d.chunk.js": "/Portoloio-React/static/js/3.3f485a4d.chunk.js",
+    "static/js/3.3f485a4d.chunk.js.map": "/Portoloio-React/static/js/3.3f485a4d.chunk.js.map",
+    "index.html": "/Portoloio-React/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Portoloio-React/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.bd42a928.chunk.css.map": "/Portoloio-React/static/css/main.bd42a928.chunk.css.map",
+    "static/js/2.1639c259.chunk.js.LICENSE.txt": "/Portoloio-React/static/js/2.1639c259.chunk.js.LICENSE.txt",
+    "static/media/Cooler+Nights.b1181126.jpg": "/Portoloio-React/static/media/Cooler+Nights.b1181126.jpg",
+    "static/media/Drinking+with+Friend.830dd4dc.jpg": "/Portoloio-React/static/media/Drinking+with+Friend.830dd4dc.jpg",
+    "static/media/Laundry+Night.5785d871.jpg": "/Portoloio-React/static/media/Laundry+Night.5785d871.jpg",
+    "static/media/Lonely+Football.2556793c.jpg": "/Portoloio-React/static/media/Lonely+Football.2556793c.jpg",
+    "static/media/Pears.5d8e5ceb.jpg": "/Portoloio-React/static/media/Pears.5d8e5ceb.jpg",
+    "static/media/App.css": "/Portoloio-React/static/media/bgimg.7dca5d9c.JPG",
+    "static/media/codeworms.9aabbedd.jpg": "/Portoloio-React/static/media/codeworms.9aabbedd.jpg",
+    "static/media/family.8099ebf3.jpg": "/Portoloio-React/static/media/family.8099ebf3.jpg",
+    "static/media/logo.02839599.png": "/Portoloio-React/static/media/logo.02839599.png",
+    "static/media/me.e50d8c0f.jpg": "/Portoloio-React/static/media/me.e50d8c0f.jpg",
+    "static/media/savannah.1f417df8.jpg": "/Portoloio-React/static/media/savannah.1f417df8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac689601.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.1639c259.chunk.js",
+    "static/css/main.bd42a928.chunk.css",
+    "static/js/main.6eab52d1.chunk.js"
+  ]
+}
