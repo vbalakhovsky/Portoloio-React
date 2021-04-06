@@ -4,7 +4,7 @@ import pr2 from '../family.jpg'
 
 const Projects = () => {
     return (
-        <div className="wrapper">
+        <div id="Projects" className="wrapper">
         <h1 className="about-heading">Project Essential Connections</h1>
  
 

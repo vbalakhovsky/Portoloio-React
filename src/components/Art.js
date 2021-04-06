@@ -7,7 +7,7 @@ import friends from "../Drinking+with+Friend.jpg"
 
 const Art = () => {
     return (
-        <div className="container">
+        <div id="Art" className="container">
 
 
 

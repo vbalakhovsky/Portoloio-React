@@ -44,7 +44,7 @@ params={{
 <Apps/>
 <Resume/>
 <Art/>
-<Contacts/>
+{/* <Contacts/> */}
 </>
   );
 }

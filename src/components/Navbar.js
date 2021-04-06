@@ -3,6 +3,7 @@ import logo from "../logo.png";
 // REACT FONTAWESOME IMPORTS
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars } from "@fortawesome/free-solid-svg-icons";
+import {Link} from "react-scroll"
 
 const Navbar = () => {
   return (
@@ -17,23 +18,23 @@ const Navbar = () => {
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav ml-auto">
             <li className="nav-item active">
-              <a className="nav-link" href="#">Home <span className="sr-only">(current)</span></a>
+            <Link smooth={true} to="home" className="nav-link" href="#">Home <span className="sr-only">(current)</span></Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">About me</a>
+            <Link smooth={true} to="AboutMe" className="nav-link" href="#">About Me <span className="sr-only"></span></Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">My Art</a>
+            <Link smooth={true} to="Art" className="nav-link" href="#">My Art <span className="sr-only"></span></Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">My Apps</a>
+            <Link smooth={true} to="Projects" className="nav-link" href="#">My Projects <span className="sr-only"></span></Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">My Projects</a>
+            <Link smooth={true} to="Resume" className="nav-link" href="#">Resume<span className="sr-only"></span></Link>
             </li>
 
             <li className="nav-item">
-              <a className="nav-link" href="#">Resume</a>
+            <Link smooth={true} to="Apps" className="nav-link" href="#">My Apps <span className="sr-only"></span></Link>
             </li>
 
             <li className="nav-item">

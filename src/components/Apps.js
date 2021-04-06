@@ -2,7 +2,7 @@ import React from 'react'
 
 const Apps = () => {
     return (
-        <div className="wrapper">
+        <div id="Apps"  className="wrapper">
         <h1 className="appsh"> My Apps</h1>
  
 
