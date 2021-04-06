@@ -9,6 +9,7 @@ import Projects from './components/Projects';
 import Apps from './components/Apps'
 import Resume from './components/Resume'
 import Art from './components/Art';
+import Contacts from './components/Contacts'
 
 
 function App() {
@@ -43,6 +44,7 @@ params={{
 <Apps/>
 <Resume/>
 <Art/>
+<Contacts/>
 </>
   );
 }
